@@ -19,7 +19,7 @@ For a quick look into some of my latest and personal favorites, check out the pr
 </br>I had fun learning how to render lines in this one and working on my very primitive 3D asset making skills.
 
 :muscle: [VR Gym](https://github.com/MMdevworks/vr-gym) 
-</br>I love the gym so much, I guess I just wanted to build one in VR?
+</br>I love the gym so much, I guess I just wanted to build one in VR and exercise my brain. 
 
 :robot: [Arduino Uno Collection](https://github.com/MMdevworks/arduino-uno) 
 </br>Just some small microcontroller projects, I love learning how code can work with hardware! One day I'll build a robot.
