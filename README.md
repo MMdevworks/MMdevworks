@@ -1,7 +1,7 @@
 Hello and welcome to my Github. I am a developer and creator based out of the Pacific Northwest. :evergreen_tree::mountain_snow:
 </br>I have a lot of interests when it comes to programming, but the bottom line is- I just enjoy making things. 
 
-Here you'll find a collection of both academic projects and self-learning projects based off my personal interests.
+Here you'll find a collection of both academic and self-learning projects based off my personal interests.
 
 For a quick look into some of my latest and personal favorites, check out the projects below!
 
