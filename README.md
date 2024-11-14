@@ -6,19 +6,22 @@ Here you'll find a collection of both academic and self-learning projects based 
 For a quick look into some of my latest and personal favorites, check out the projects below!
 
 ### Featured Picks
-:brain: [Mini Quest Academy](https://github.com/MMdevworks/project_spell)
-</br>An educational concept and my latest in Unity, a mini project within a larger concept; which I plan to continue building and learning from.
+:joystick: [Mini Quest Academy](https://github.com/MMdevworks/project_spell)
+</br>An educational concept and my latest in Unity; which I plan to continue building and learning from.
 
-:1234: [A C# Calculator](https://github.com/MMdevworks/Calculator_Winform)
+:computer: [A C# Calculator](https://github.com/MMdevworks/Calculator_Winform)
 </br>A compact simple calculator build in Winforms.
 
-:ghost: [A Spooky Shooter](https://github.com/MMdevworks/game-01)
+:computer: [Phonebook App](https://github.com/MMdevworks/PhoneBook_Winform)
+</br>An app to keep track of contacts
+
+:joystick: [A Spooky Shooter](https://github.com/MMdevworks/game-01)
 </br>My first Unity micro-game! Don't worry, it's not really spooky... unless you find bugs, then it's my nightmare.
 
-:grin: [Project Slingshot](https://github.com/MMdevworks/slingshot)
+:joystick: [Project Slingshot](https://github.com/MMdevworks/slingshot)
 </br>I had fun learning how to render lines in this one and working on my very primitive 3D asset making skills.
 
-:muscle: [VR Gym](https://github.com/MMdevworks/vr-gym) 
+:joystick: [VR Gym](https://github.com/MMdevworks/vr-gym) 
 </br>I love the gym so much, I guess I just wanted to build one in VR to exercise my brain. 
 
 :robot: [Arduino Uno Collection](https://github.com/MMdevworks/arduino-uno) 
