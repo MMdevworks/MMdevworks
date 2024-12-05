@@ -6,6 +6,9 @@ Here you'll find a collection of both academic and self-learning projects based 
 For a quick look into some of my latest and personal favorites, check out the projects below!
 
 ### Featured Picks
+:iphone: [Currently Unnamed Maui App](https://github.com/MMdevworks/MauiProject)
+</br>This project in the ideation and discovery stage. This project will be focusing on mobile development in .NET MAUI and utilize API webservice.
+
 :joystick: [Mini Quest Academy](https://github.com/MMdevworks/project_spell)
 </br>An educational concept and my latest in Unity, which I plan to continue building and learning from.
 
@@ -25,7 +28,7 @@ For a quick look into some of my latest and personal favorites, check out the pr
 </br>I love the gym, I decided to build one in VR. This was a fun exploration of VR technology and discovering the toolkits involved.
 
 :robot: [Arduino Uno Collection](https://github.com/MMdevworks/arduino-uno) 
-</br>A small collection of microcontroller projects, it's awesome to see code can work with hardware! One day I'll build a robot.
+</br>A small collection of microcontroller projects, it's awesome to see code can work with hardware!
 
 [Older Work](https://github.com/Mmarcos01)
 
