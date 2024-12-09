@@ -11,6 +11,10 @@ For a quick look into some of my latest and personal favorites, check out the pr
 </br>Currently under development. This project will be focusing on mobile development in .NET MAUI and utilize API webservice and SqLite db.
 
 #### :computer: Web
+
+> [Books Database](https://github.com/MMdevworks/BooksDbCRUD)
+</br>A Winforms app used to perform CRUD operations and interact with Sql Server.
+
 > [A C# Calculator](https://github.com/MMdevworks/Calculator_Winform)
 </br>A compact simple calculator build in Winforms.
 
