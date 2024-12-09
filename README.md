@@ -7,8 +7,8 @@ Here you'll find a collection of both academic and self-learning projects based 
 For a quick look into some of my latest and personal favorites, check out the projects below!
 
 #### :iphone: Mobile
-> [Currently Unnamed Maui App](https://github.com/MMdevworks/MauiProject)
-</br>This project in the ideation and discovery stage. This project will be focusing on mobile development in .NET MAUI and utilize API webservice.
+> [Currently Unnamed Maui App](https://github.com/MMdevworks/ProjectMaui)
+</br>Currently under development. This project will be focusing on mobile development in .NET MAUI and utilize API webservice and SqLite db.
 
 #### :computer: Web
 > [A C# Calculator](https://github.com/MMdevworks/Calculator_Winform)
