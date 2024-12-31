@@ -7,8 +7,8 @@ Here you'll find a collection of both academic and self-learning projects based 
 For a quick look into some of my latest and personal favorites, check out the projects below!
 
 #### :iphone: Mobile
-> [Currently Unnamed Maui App](https://github.com/MMdevworks/ProjectMaui)
-</br>Currently under development. This project will be focusing on mobile development in .NET MAUI and utilize API webservice and SqLite db.
+> [StrideSync](https://github.com/MMdevworks/ProjectMaui2)
+</br>Currently under development. This project focuses on mobile development in .NET MAUI and utilizes API webservice and SqLite db.
 
 #### :computer: Web
 
