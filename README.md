@@ -8,7 +8,7 @@ For a quick look into some of my latest and personal favorites, check out the pr
 
 #### :iphone: Mobile
 > [StrideSync](https://github.com/MMdevworks/ProjectMaui2)
-</br>Currently under development. This project focuses on mobile development in .NET MAUI and utilizes API webservice and SqLite db.
+</br>Currently under development. A personal trainer's client management app. This project focuses on mobile development in .NET MAUI and utilizes API webservice and SqLite db.
 
 #### :computer: Web
 
