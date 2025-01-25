@@ -8,7 +8,7 @@ For a quick look into some of my latest and personal favorites, check out the pr
 
 #### :iphone: Mobile
 > [StrideSync](https://github.com/MMdevworks/ProjectMaui2)
-</br>Currently under development. A personal trainer's client management app. This project focuses on mobile development in .NET MAUI and utilizes API webservice and SqLite db.
+</br>A personal trainer's client management app. This project focuses on mobile development in .NET MAUI and utilizes API webservice and SqLite db.
 
 #### :computer: Web
 
@@ -26,7 +26,7 @@ For a quick look into some of my latest and personal favorites, check out the pr
 
 #### :joystick: Games
 > [Mini Quest Academy](https://github.com/MMdevworks/project_spell)
-</br>An educational concept and my latest in Unity, which I plan to continue building and learning from.
+</br>An educational concept built in Unity.
 
 > [Project Slingshot](https://github.com/MMdevworks/slingshot)
 </br>I had fun learning how to render lines and add movement to objects in this one.
