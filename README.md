@@ -21,7 +21,7 @@ For a quick look into some of my latest and personal favorites, check out the pr
 > [Phonebook App](https://github.com/MMdevworks/PhoneBook_Winform)
 </br>An app to keep track of contacts with CRD and search functionality
 
-> [Mini Student Manager](https://github.com/MMdevworks/PhoneBook_Winform)
+> [Mini Student Manager](https://github.com/MMdevworks/TeacherAdmin_Winform)
 </br>A mini management tool. 
 
 #### :joystick: Games
