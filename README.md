@@ -4,7 +4,7 @@ I am a developer and creator based out of the Pacific Northwest. :evergreen_tree
 
 Here you'll find a collection of both academic and self-learning projects based off my personal interests.
 
-For a quick look into some of my latest and personal favorites, check out the projects below!
+Check out the list below for a quick look into some of my projects or see all repositories here: [All Repositories](https://github.com/MMdevworks?tab=repositories)
 
 #### :iphone: Mobile
 > [StrideSync](https://github.com/MMdevworks/ProjectMaui2)
