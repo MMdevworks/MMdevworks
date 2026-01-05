@@ -1,8 +1,6 @@
 ### Hello and welcome to my Github! 
-I am a developer and creator based out of the Pacific Northwest. :evergreen_tree::mountain_snow:
-</br>I have a lot of interests when it comes to programming, but the bottom line is- I just enjoy making things. 
 
-Here you'll find a collection of both academic and self-learning projects based off my personal interests.
+Here you'll find a collection of both academic and self-learning projects.
 
 Check out the list below for a quick look into some of my projects or see all repositories here: [All Repositories](https://github.com/MMdevworks?tab=repositories)
 
