@@ -33,7 +33,7 @@ Check out the list below for a quick look into some of my projects or see all re
 </br>My first unity mini game!
 
 > [VR Gym](https://github.com/MMdevworks/vr-gym) 
-</br>I love the gym, I decided to build one in VR. This was a fun exploration of VR technology and discovering the toolkits involved.
+</br>This was a fun exploration of VR technology and discovering the toolkits involved.
 
 #### :robot: Embedded Technology
 > [Arduino Uno Collection](https://github.com/MMdevworks/arduino-uno) 
